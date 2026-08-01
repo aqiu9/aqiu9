@@ -12,6 +12,6 @@
   </picture>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img alt="metrics" src="https://raw.githubusercontent.com/aqiu9/aqiu9/main/metrics.svg" width="100%"/>
-</p>
+</p> -->
